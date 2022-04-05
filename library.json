@@ -8,5 +8,8 @@
     "url": "https://github.com/sitronlabs/SitronLabs_OPT3001_Arduino_Library.git"
   },
   "frameworks": "arduino",
-  "platforms": "*"
+  "platforms": "*",
+  "build": {
+    "includeDir": "src"
+  }
 }
